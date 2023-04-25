@@ -1,0 +1,14 @@
+h3 {
+    font-style: italic;
+    text-decoration: underline;
+    color: #e66868;
+    
+}
+#card {
+    border-color: black;
+    border-radius: 10px;
+    margin-left: 30%;
+}
+body {
+    background: linear-gradient(-90deg, #ffffff , #93ffff);
+}

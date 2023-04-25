@@ -1,0 +1,11 @@
+#img {
+    height: 100%;
+}
+#cin {
+    margin-left: 35%;
+    color: black;
+}
+#cin label {
+    color: black;
+    font-size: 1.5rem;
+}
